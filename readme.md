@@ -1,5 +1,5 @@
 <div align="center">
-  <p style="font-size: 80px">🌄</p>
+   <img src="https://em-content.zobj.net/source/apple/391/mountain_26f0-fe0f.png" width="120" height="120" alt="Mountain">
 
   <h1>CSS Hills UI</h1>
 
@@ -66,7 +66,7 @@ CSS-Hills-UI/
 
 ## 👤 Author
 
-<div align="center">
+<div>
 
 **Muhammad Tanveer Abbas**
 
